@@ -1,5 +1,15 @@
+header{
+    position: sticky;
+}
+
 h1 {
-    text-align: center;
+    text-align: Left;
+    padding-left: 3%;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: larger;
+    font-size: x-large;
+}
+
+body{
+    margin-top: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
